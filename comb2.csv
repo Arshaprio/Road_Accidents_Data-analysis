@@ -1,0 +1,563 @@
+Id,District Name,Neighborhood Name,Street,Weekday,Month,Day,Hour,Part of the day,injuries,dead,Victims,Vehicle Involved,Latitude,Longitude,Vehicle Type,Year
+1,Gopalganj,birshordi,dhaka_barisal_highway,Sunday,April,1,23,Night,26,8,34,1,23.253761,90.018641,bus,2018
+2,Dhaka,savar,dhaka_aricha_highway,Tuesday,April,3,22,Night,0,2,2,3,23.851718,90.258876,truck_cycle,2018
+3,Dhaka,savar,dhaka_aricha_highway,Tuesday,April,3,22,Night,0,2,2,1,23.850717,90.258543,truck,2018
+4,Dhaka,savar,nobinagar_chandra_highway,Tuesday,April,3,21,Night,0,1,1,1,24.013214,90.246366,truck,2018
+5,Satkhira,kaliganj,kaliganj_symganj_road,Tuesday,April,3,20,Night,2,2,4,2,22.482941,89.050455,cycle,2018
+6,Dinajpur,kaharol,,Wednesday,April,4,6,Morning,0,2,2,2,25.759794,88.674017,bus_cycle,2018
+7,Dinajpur,palashbari,dinajpur_gobindaganj_road,Wednesday,April,4,7,Morning,0,1,1,2,25.608346,88.680677,cycle,2018
+8,Chittagong,raozan,chittagang_rangamati_highway,Wednesday,April,4,6,Morning,0,2,2,1,22.535365,91.92278,bus,2018
+9,Mymensingh,,,Wednesday,April,4,9,Morning,1,3,4,2,24.724183,90.409499,others,2018
+10,Khulna,khulna city,BIDC road,Tuesday,April,3,22,Night,0,1,1,1,22.852307,89.5465,bus,2018
+11,Dinajpur,,,Thursday,April,5,11,Morning,1,1,2,1,25.607847,88.692007,truck,2018
+12,Mymensingh,ishwarganj,mymensing_kishorganj_road,Thursday,April,5,12,Morning,0,1,1,1,24.735996,90.502541,bus,2018
+13,Chittagong,wasaintersection,,Thursday,April,5,10,Morning,0,1,1,1,22.351378,91.822186,car,2018
+14,Chittagong,newmarket intersection,,Thursday,April,5,8,Morning,0,1,1,1,22.333977,91.832429,car,2018
+15,Jamalpur,,jamalpur_dewanganj_road,Thursday,April,5,9,Morning,0,1,1,2,25.118269,25.118269,truck_three_wheeler,2018
+16,Brahmanbaria,raipura,charabagh,Friday,April,6,16,Afternoon,0,4,4,2,23.994232,90.871032,bus_cycle,2018
+17,Brahmanbaria,madgabdi,,Friday,April,6,10,Morning,0,3,3,2,24.091213,91.288982,bus_car,2018
+18,Brahmanbaria,baghata,,Friday,April,6,20,Night,0,2,2,2,23.889562,90.689361,bus_cycle,2018
+19,Chittagong,,,Friday,April,6,21,Night,3,1,4,2,22.981288,91.416643,truck_three_wheeler,2018
+20,Jhenaidah,mahaMayabusstand,,Friday,April,6,22,Night,3,1,4,1,23.553982,89.1792,three_wheeler,2018
+21,Dinajpur,birampur,,Friday,April,6,20,Night,0,1,1,2,25.37678,88.991788,cycle_three_wheeler,2018
+22,Sherpur,baniapara,kamaria_nakla_road,Friday,April,6,20,Night,0,2,2,1,24.980409,90.132472,cycle,2018
+23,Gopalganj,,dhaka_khulna_highway,Sunday,April,8,23,Night,15,2,17,1,22.99975,89.837224,bus,2018
+24,Lalmonirhat,patgram,lalmonirhat_burimari_highway,Sunday,April,8,23,Night,0,1,1,1,26.360892,88.995731,truck,2018
+25,Jamalpur,melandah,,Monday,April,9,9,Morning,2,1,3,2,24.98214,89.834388,three_wheeler_rickshaw,2018
+26,Madaripur,matunbusstand,,Monday,April,9,11,Morning,1,0,1,1,23.167218,90.197697,bus,2018
+27,Sylhet,jaintiapur,,Monday,April,9,10,Morning,0,1,1,1,25.13302,92.121608,bus,2018
+28,Dhaka,farmgate,,Wednesday,April,11,7,Morning,1,0,1,1,23.757951,90.390058,bus,2018
+29,Dhaka,banglamotor,,Tuesday,April,3,8,Morning,1,0,1,2,23.746128,90.394564,bus,2018
+30,Chittagong,mirsarai,,Friday,April,13,23,Night,3,2,5,2,22.76525,91.578547,truck_three_wheeler,2018
+31,Chittagong,sitakunda,chittagang_dhaka_highway,Friday,April,13,22,Night,4,1,5,2,22.38372,91.763524,bus_van,2018
+32,Gopalganj,gatpara,,Friday,April,13,23,Night,0,1,1,1,23.016131,89.835132,truck,2018
+33,Rangpur,mithapukur,,Monday,April,16,21,Night,0,2,2,1,25.662021,89.273184,car,2018
+34,Mymensingh,,dhaka_mymensingh_highway,Monday,April,16,20,Night,0,1,1,1,24.610345,90.39628,truck,2018
+35,Mymensingh,nandail,nandail_tarial_road,Monday,April,16,21,Night,3,1,4,2,24.576999,90.741786,three_wheeler_rickshaw,2018
+36,ChapaiNawabganj,kalingar,,Monday,April,16,21,Night,0,1,1,2,24.577864,88.188692,three_wheeler_cycle,2018
+37,Natore,,natore_pabna_highway,Monday,April,16,9,Morning,1,1,2,2,24.288914,89.073363,truck_cycle,2018
+38,Brahmanbaria,akhura,comilla_sylhet_highway,Monday,April,16,12,Morning,0,1,1,1,23.878871,91.13769,truck,2018
+39,Dinajpur,karimullapur,,Monday,April,16,13,Afternoon,0,1,1,2,25.623214,88.643973,truck_cycle,2018
+40,Manikganj,,dhaka_aricha_highway,Tuesday,April,17,15,Afternoon,0,1,1,2,23.871582,90.003568,bus_cycle,2018
+41,Chittagong,,dhaka_chittagong_highway,Tuesday,April,17,16,Afternoon,0,1,1,1,22.3849,91.762627,car,2018
+42,Chittagong,mirsarai,,Tuesday,April,17,5,Morning,0,1,1,1,22.771282,91.57423,car,2018
+43,Munshiganj,,dhaka_chittagong_highway,Tuesday,April,17,22,Night,0,1,1,1,23.5866,90.634118,others,2018
+44,Dinajpur,phulbari,,Monday,April,16,18,Evening,0,1,1,1,25.498629,88.965701,truck,2018
+45,Gopalganj,,dhaka-khulna_highway,Tuesday,April,17,19,Evening,1,0,1,2,22.99915,89.836958,bus_truck,2018
+46,Khulna,kathaltola,bagerhat_khulna_highway,Wednesday,April,18,18,Evening,1,2,3,2,22.95326,89.113059,bus_cycle,2018
+47,Pirojpur,mathbaria,,Wednesday,April,18,19,Evening,0,1,1,1,22.288629,89.959128,cycle,2018
+48,Chittagong,sitakunda,dhaka_chittagong_highway,Wednesday,April,18,18,Evening,0,1,1,1,22.610094,91.663448,truck,2018
+49,Dhaka,banani,airport_road,Friday,April,20,21,Night,1,0,1,1,23.787378,90.399838,bus,2018
+50,Gaibandha,gobindaganj,rangpur_bogra_highway,Sunday,April,22,6,Morning,15,4,19,2,25.178375,89.388339,bus_truck,2018
+51,Mymensingh,bhaluka,dhaka_mymensingh_highway,Sunday,April,22,6,Morning,2,3,5,2,24.379534,90.377236,car_van,2018
+52,Rajshahi,,chapaChapaiNawabganj_dhaka_highway,Sunday,April,22,22,Night,0,1,1,2,24.581352,88.289212,truck_cycle,2018
+53,Kishoreganj,,bhairab_kisharganj_road,Tuesday,April,24,23,Night,1,4,5,2,24.285684,90.776298,truck_rickshaw,2018
+54,Mymensingh,phulpur,mymensing_sherpur_road,Tuesday,April,24,24,Night,7,0,7,2,24.934167,90.371745,bus_three_wheeler,2018
+55,Madaripur,shivehar,,Tuesday,April,24,23,Night,2,1,3,2,23.167161,90.193631,bus_cycle,2018
+56,Jhenaidah,raghunatpur,jhenidah_jessore_road,Tuesday,April,24,24,Night,0,1,1,1,23.319155,89.147261,bus,2018
+57,Jhenaidah,kaliganj,kotechanpur_kaliganj_road,Tuesday,April,24,7,Morning,15,0,15,1,23.405704,89.127708,bus,2018
+58,Bogra,,dhaka_bogra_highway,Tuesday,April,24,8,Morning,0,1,1,1,24.823801,89.359137,van,2018
+59,Narayanganj,araihazar,dhaka_araihazar_road,Wednesday,April,25,9,Morning,0,1,1,1,23.789483,90.654057,three_wheeler,2018
+60,Faridpur,alipur,,Wednesday,April,25,11,Morning,0,1,1,1,23.612938,89.827479,cycle,2018
+61,Madaripur,noyakandi,,Wednesday,April,25,11,Morning,1,1,2,1,23.188151,90.090351,truck,2018
+62,Patuakhali,joutabazar,,Wednesday,April,25,16,Afternoon,10,0,10,2,22.358484,90.335238,cycle_three_wheeler,2018
+63,Munshiganj,sirajdikhan,,Saturday,April,28,16,Afternoon,0,1,1,1,23.565498,90.407421,three_wheeler,2018
+64,Manikganj,saturia,kurikahani,Saturday,April,28,16,Afternoon,1,1,2,1,23.862782,90.000415,three_wheeler,2018
+65,Dinajpur,jaliyapara,,Saturday,April,28,17,Afternoon,3,2,5,2,25.623398,88.644132,cycle,2018
+66,Chittagong,chairmanbari,,Saturday,April,28,16,Afternoon,0,1,1,1,22.403919,91.826859,truck,2018
+67,Thakurgaon,thakurgaon_sadar,thakurgaon_baliadangi_road,Sunday,February,4,18,Evening,0,1,1,2,26.06494,88.349454,bus_cycle,2018
+68,Jhalokati,nalchity,kulkathi_taltoli_road,Sunday,February,4,12,Afternoon,11,0,11,1,22.733183,90.376533,three_wheeler,2018
+69,Rajshahi, puthia_upazillz,dhaka_rajshahi_highway,Monday,February,5,9,Morning,0,3,3,2,24.35093,89.315871,bus_cycle,2018
+70,Sunamganj, sunamganj_upazilla,south_sunamganj_upazila,Wednesday,February,7,19,Evening,0,5,5,2,24.927964,91.538262,bus_car,2018
+71,Faridpur,,dhaka_khulna_highway,Wednesday,February,7,21,Night,0,4,4,2,23.019821,89.922869,bus_cycle,2018
+72,Sirajganj,shealkol,,Wednesday,February,7,23,Night,0,1,1,1,24.448557,89.667014,bus,2018
+73,Dinajpur,rangur_town,,Wednesday,February,7,9,Morning,0,1,1,2,23.715271,88.642544,three_wheeler_cycle,2018
+74,Dhaka,sayedabad,sayedabad_street,Friday,February,9,15,Afternoon,0,1,1,1,23.715271,90.425822,car,2018
+75,Gopalganj,,gopalganj_kotalipara_road,Sunday,February,11,10,Morning,1,1,2,1,23.019821,89.922869,three_wheeler,2018
+76,Dinajpur,,birganj_kaharol_road,Sunday,February,11,16,Afternoon,0,2,2,2,25.824231,88.625542,cycle_three_wheeler,2018
+77,Dinajpur,khansama_upazilla,,Sunday,February,11,15,Afternoon,0,1,1,2,25.868036,88.74275,three_wheeler,2018
+78,Rajbari,balikandi_upazilla,notapara_village,Tuesday,February,13,11,Morning,0,1,1,1,23.643701,89.567513,rickshaw,2018
+79,Madaripur,,madaripur_shariatpur road,Sunday,February,18,24,Night,15,2,17,2,23.349006,90.171468,bus_truck,2018
+80,Dinajpur,Jaipurhat_sadar_upazilla,,Sunday,February,18,14,Afternoon,0,1,1,1,25.102095,89.028891,three_wheeler,2018
+81,Rajbari,rajbari,,Sunday,February,18,15,Afternoon,1,1,2,1,23.7151,89.5875,three_wheeler,2018
+82,Thakurgaon, thakurgaon_sadar_upazilla,thakurgaon_gorea_road,Friday,February,23,11,Morning,0,1,1,1,26.046792,88.575749,rickshaw,2018
+83,Pabna,pabna_sadar_upazilla,,Friday,February,23,9,Morning,0,1,1,1,24.018481,89.265188,three_wheeler,2018
+84,Chittagong, sitakunda_upazilla_health_complex,chittagang_dhaka_highway,Friday,February,23,6,Morning,0,1,1,1,22.609589,91.664616,truck,2018
+85,Shariatpur,vedarganj_upazilla,,Friday,February,23,22,Night,7,3,10,1,23.221069,90.349104,truck,2018
+86,Gopalganj,gopalganj_sadar_upazilla,dhaka_khulna_highway,Friday,February,23,13,Afternoon,0,3,3,2,23.046892,89.783804,bus,2018
+87,Mymensingh,char_hossainpur_area,kishoregamj_road,Friday,February,23,14,Afternoon,25,4,29,1,24.433666,90.765783,bus,2018
+88,Natore,gurudashpur_area,bonpara_hatikumrul_highway,Friday,February,23,12,Morning,0,3,3,2,24.0077,89.076247,bus_cycle,2018
+89,Faridpur,phakira_sadar_upazilla,,Friday,February,23,11,Morning,2,2,4,2,23.60245,89.834266,rickshaw_van,2018
+90,Feni,chhounuya_sadar_pur,dhaka_chittagang_highway,Friday,February,23,21,Night,0,2,2,2,22.978951,91.418758,truck_van,2018
+91,Thakurgaon, panchagar_sadar_upazilla,,Friday,February,23,13,Afternoon,0,2,2,1,26.02841,88.478278,truck,2018
+92,Narayanganj, tripurdi_area_sonargaon,dhaka_chittagang_highway,Monday,February,26,13,Afternoon,30,10,40,2,22.978951,91.418758,bus,2018
+93,Dhaka,heMayetpur_savar,dhaka_aricha_highway,Wednesday,February,28,16,Afternoon,0,1,1,1,23.889806,90.03417,bus,2018
+94,Chittagong,sitakunda_upazilla,dhaka_chittagang_highway,Wednesday,February,28,6,Morning,1,1,2,1,22.978951,91.418758,truck,2018
+95,Chittagong,sitakunda_upazilla,,Wednesday,February,28,23,Night,1,0,1,1,22.616497,91.678557,truck,2018
+96,Sirajganj,nagarbari,bogra_nagarbari_highway,Monday,January,1,24,Night,0,5,5,2,24.32486,89.557571,bus_three_wheeler,2018
+97,Bogra,noymile,bogra_dhaka_highway,Monday,January,1,15,Afternoon,25,5,30,2,24.780565,89.393485,bus_van,2018
+98,Dinajpur,shahjahanpur,,Monday,January,1,16,Afternoon,0,1,1,2,24.725335,89.396794,three_wheeler_cycle,2018
+99,Gopalganj,batgram,dhaka_khulna_highway,Monday,January,1,24,Night,2,1,3,1,23.013097,89.844089,truck,2018
+100,Gazipur,Mollapara,salna_jolarparroad,Tuesday,January,2,21,Night,3,2,5,2,24.014984,90.400548,others,2018
+101,Sylhet,beanibazar,sylhet_barlekharoad,Wednesday,January,3,18,Evening,4,1,5,2,24.824411,92.159155,three_wheeler_rickshaw,2018
+102,Sylhet,chandgaon,,Wednesday,January,3,18,Evening,0,1,1,1,24.882308,91.870662,bus,2018
+103,Jhenaidah,baidanga,,Thursday,January,4,10,Morning,0,1,1,2,23.563697,89.047279,truck_cycle,2018
+104,Mymensingh,rangamatia,dhaka_mymensing_highway,Thursday,January,4,18,Evening,15,1,16,1,24.568463,90.174254,bus,2018
+105,Chittagong,airport_area,,Thursday,January,4,14,Afternoon,0,2,2,2,22.278769,91.786069,cycle,2018
+106,Chittagong,neitgate,,Wednesday,January,3,23,Night,0,1,1,1,22.302582,91.791895,truck,2018
+107,Feni,amirgaon,,Saturday,January,6,18,Evening,20,7,27,4,22.969644,91.334055,bus_cycle,2018
+108,Narsingdi,madhabdi,megna_bazar_area,Sunday,January,7,7,Morning,0,3,3,1,23.835454,90.697945,cycle,2018
+109,Gopalganj,kashiani,dhaka_khulna_highway,Sunday,January,7,7,Morning,0,1,1,1,23.232107,89.722356,bus,2018
+110,Faridpur,faridpur,dhaka_khulna_highway,Sunday,January,7,8,Morning,0,2,2,2,23.305685,89.835,truck_cycle,2018
+111,Khulna,ghonapara,,Sunday,January,7,9,Morning,10,2,12,2,22.923238,89.8064,bus_truck,2018
+112,Khulna,naydighi,naydighi_road,Sunday,January,7,6,Morning,0,1,1,2,22.857581,89.5393,truck_cycle,2018
+113,Jaipurhat,panchbibi,boromanik_area,Thursday,January,11,10,Morning,2,1,3,3,25.191859,89.00849,rickshaw_truck_van,2018
+114,Naogaon,mohadevpur,naogaon_rajshahi_road,Thursday,January,11,22,Night,0,1,1,1,24.865471,88.84723,bus,2018
+115,Chittagong,sitakundo,,Thursday,January,11,21,Night,0,1,1,1,22.611218,91.66265,others,2018
+116,Jessore,gorpara,,Thursday,January,11,23,Night,0,1,1,2,23.131308,88.9708,truck_van,2018
+117,Mymensingh,phulbaria,mymensing_phulbaria_road,Saturday,January,13,16,Afternoon,0,1,1,1,24.740175,90.38233,truck,2018
+118,Mymensingh,shambhuganj,shambhuganj_bridge,Saturday,January,13,17,Afternoon,0,1,1,2,24.762736,90.45076,truck_rickshaw,2018
+119,Mymensingh,mehrabai,,Saturday,January,13,16,Afternoon,0,1,1,2,24.747863,90.42181,truck_cycle,2018
+120,Dhaka,gendaria,,Thursday,January,18,20,Night,1,2,3,2,23.702264,90.425452,van_cycle,2018
+121,Pabna,dashuria,dhaka_Kushtia_highway,Thursday,January,18,21,Night,3,2,5,2,23.890152,89.118545,bus_three_wheeler,2018
+122,Rangpur,badarganj,badarganj_rangpur_road,Thursday,January,18,21,Night,0,1,1,1,25.673358,89.058008,three_wheeler,2018
+123,Chittagong,shershah,,Thursday,January,18,23,Night,0,1,1,2,22.379853,91.820228,bus_rickshaw,2018
+124,Sylhet,,,Thursday,January,18,19,Evening,3,2,5,1,24.824411,92.159155,truck,2018
+125,Dhaka,malibagh,rampura_meradia_route,Saturday,January,20,9,Morning,0,1,1,1,23.75738,90.431901,bus,2018
+126,Sylhet,dakshin,dhaka_sylhet_hihgway,Monday,January,22,7,Morning,10,4,14,2,24.626537,91.677719,bus_truck,2018
+127,Dinajpur,birampur,,Tuesday,January,23,21,Night,0,1,1,2,25.391017,88.991219,truck_cycle,2018
+128,Comilla,laksham,,Tuesday,January,23,22,Night,0,1,1,1,23.264463,91.123402,rickshaw,2018
+129,Narayanganj,sonargaon,,Tuesday,January,23,21,Night,0,1,1,1,23.647252,90.59904,bus,2018
+130,Bagerhat,,,Tuesday,January,23,20,Night,0,1,1,1,22.784714,89.725202,bus,2018
+131,Thakurgaon,baliadangi,,Tuesday,January,23,19,Night,0,1,1,1,26.085272,88.276974,bus,2018
+132,Thakurgaon,haripur,,Tuesday,January,23,21,Night,0,1,1,2,25.829453,88.125404,three_wheeler_cycle,2018
+133,Dhaka,dhanmondi,mirpur_road,Friday,January,26,5,Morning,0,1,1,1,23.747434,90.380525,car,2018
+134,Chittagong,kajipara,chittagong_coxsbazar_highway,Saturday,January,27,11,Morning,0,2,2,2,22.363647,91.908779,bus_cycle,2018
+135,Chittagong,akabarshah,,Saturday,January,27,9,Morning,1,1,2,1,22.363882,91.792496,bus,2018
+136,Munshiganj,srinagar,dhaka_mawa_highway,Saturday,January,27,7,Morning,2,1,3,2,23.539852,90.293596,van_rickshaw,2018
+137,Bagerhat,,bagerhat_mawa_highway,Saturday,January,27,8,Morning,0,1,1,1,22.784714,89.725202,cycle,2018
+138,Khulna,,,Saturday,January,27,7,Morning,0,1,1,2,22.865766,89.528099,van_cycle,2018
+139,Faridpur,nagarkanda,juguedi,Saturday,January,27,9,Morning,1,1,2,1,23.41929,89.892201,cycle,2018
+140,ChapaiNawabganj,shibganj,,Tuesday,January,30,22,Night,2,0,2,1,24.684119,88.166301,car,2018
+141,Bagerhat,,,Monday,January,29,22,Night,0,1,1,2,22.784714,89.725202,truck_cycle,2018
+142,Pabna,sayedabad_area, bangabandhu_bridge_west,Saturday,June,2,11,Morning,10,4,14,2,24.392635,89.717213,bus_van,2018
+143,Faridpur,kalipar_madhukhali_upazila, dhaka_khulna_highway,Saturday,June,2,14,Afternoon,0,2,2,2,23.337327,89.87923,truck_cycle,2018
+144,Faridpur,goriadaho_madhukhli_upazila, dhaka_khulna_highway,Saturday,June,2,16,Afternoon,0,1,1,1,23.043738,89.788578,bus,2018
+145,Mymensingh, boleswar_muktagasa,,Saturday,June,2,14,Afternoon,0,1,1,2,24.761429,90.270085,bus_cycle,2018
+146,Chittagong,oxygen_intersection_port_city,,Wednesday,June,6,8,Morning,0,1,1,1,22.33681,91.770436,others,2018
+147,Tangail,kalihati_upazila, bangabandhu_bridge_link_road,Wednesday,June,6,3,Night,0,4,4,2,24.384128,89.842585,truck,2018
+148,Sylhet,,dhaka_sylhet_highway,Wednesday,June,6,23,Night,3,3,6,2,24.827137,91.813401,truck_three_wheeler,2018
+149,Mymensingh,,dhaka_mymensingh_highway,Wednesday,June,6,13,Afternoon,0,2,2,1,24.711784,90.410467,van,2018
+150,Patuakhali,boardoffice_bazar_area,,Sunday,June,3,11,Morning,3,1,4,2,24.752435,90.414659,cycle,2018
+151,Dinajpur,belachandi_area, parbatipur_saidpur_road,Monday,June,4,12,Morning,0,1,1,2,25.766143,88.91743,truck,2018
+152,Chittagong, nayakhal_satkania, chittagang_cox'sbazar_highway,Saturday,June,9,13,Afternoon,5,2,7,2,22.384674,91.858728,bus,2018
+153,Chittagong,banur_bazar_sitakunda,,Saturday,June,9,17,Afternoon,0,1,1,2,22.413392,91.753772,van_cycle,2018
+154,Panchagarh, sadar_upazila, panchagarh_banglabandha_highway,Saturday,June,9,9,Morning,0,1,1,2,26.63265,88.414657,truck_cycle,2018
+155,ChapaiNawabganj, pukuria_shibganj_upazila,,Saturday,June,9,8,Morning,0,1,1,1,24.70113,88.161173,van,2018
+156,Bogra,chakbachai_gabtali,,Saturday,June,9,19,Evening,4,1,5,2,24.880029,89.448495,bus_rickshaw,2018
+157,Dinajpur,saidpur_bypassroad_dhalagachh_intersection, dhaka_dinajpur_highway,Thursday,June,14,22,Night,13,10,23,2,25.79372,88.951037,bus_van,2018
+158,Chittagong, sahgodi_nimtoli_patiya_upazila,,Friday,June,15,14,Afternoon,0,3,3,2,22.290814,91.984541,bus,2018
+159,Chittagong, barabkunda_shuklahat, dhaka_chittaganj_highway,Friday,June,15,21,Night,0,2,2,1,22.383366,91.763898,bus,2018
+160,Chittagong, madambibir_hat_sitakunda_upazila, dhaka_chittaganj_highway,Friday,June,15,11,Morning,0,1,1,1,22.383366,91.763898,others,2018
+161,Chandpur,,,Friday,June,15,16,Afternoon,0,1,1,2,23.234723,90.679289,car_rickshaw,2018
+162,Tangail,kurni_mirzapur, dhaka_tangail_highway,Friday,June,15,12,Morning,25,1,26,2,24.08897,90.185391,bus,2018
+163,Habiganj, uttarbazar_chunarughat,,Saturday,June,16,15,Afternoon,0,1,1,1,24.200147,91.519503,bus,2018
+164,Jhenaidah, madupur_pachmile_area, magura_jenidah_highway,Saturday,June,16,11,Morning,0,1,1,1,23.484279,89.390481,cycle,2018
+165,Faridpur,purbo_sodordi_area_bhanga_upazila,,Saturday,June,16,19,Evening,0,1,1,1,23.387439,89.978285,cycle,2018
+166,Faridpur, dangi,,Saturday,June,16,10,Morning,0,1,1,1,23.443155,89.944519,three_wheeler,2018
+167,Mymensingh, shahbazpur_gouripur_upazila,,Saturday,June,16,17,Afternoon,0,1,1,1,24.056817,91.196529,rickshaw,2018
+168,Noakhali,rampur_sonaimuri, laksam_sonaimuri_road,Sunday,June,17,14,Afternoon,1,3,4,2,23.06371,91.106968,bus_rickshaw,2018
+169,Tangail, bangabandhu_bridge,,Sunday,June,17,7,Morning,0,3,3,2,24.399888,89.776583,bus_cycle,2018
+170,Tangail, bailla_area,,Sunday,June,17,8,Morning,0,1,1,1,24.330634,90.031071,cycle,2018
+171,Cox's Bazar,,,Sunday,June,17,14,Afternoon,0,1,1,1,21.425297,92.017309,rickshaw,2018
+172,Comilla, kalakachua_burichang_upazila, dhaka_chittaganj_highway,Sunday,June,17,15,Afternoon,0,1,1,1,23.477764,91.087842,bus,2018
+173,Comilla,,,Sunday,June,17,17,Afternoon,0,1,1,1,23.456673,91.180154,bus,2018
+174,Thakurgaon, mathurapur,,Sunday,June,17,19,Evening,0,2,2,3,26.044913,88.404503,bus_cycle,2018
+175,Faridpur, kaliamore_area,,Sunday,June,17,18,Evening,0,1,1,2,23.604475,89.836219,bus_cycle,2018
+176,Magura,,,Monday,June,18,14,Morning,0,2,2,2,23.485761,89.421501,bus_rickshaw,2018
+177,Chittagong, satkania, chittagang_cox'sbazar_highway,Monday,June,18,22,Night,9,1,10,2,22.363395,91.908958,bus,2018
+178,Jhenaidah, arabpur_busstand,,Monday,June,18,14,Afternoon,0,1,1,2,23.553844,89.173806,bus_cycle,2018
+179,Mymensingh, nandail, mymensingh_kishoreganj_road,Monday,June,18,15,Afternoon,4,1,5,2,24.739061,90.499324,three_wheeler_rickshaw,2018
+180,Narsingdi, raipura_upazila,,Wednesday,June,20,18,Evening,0,2,2,1,23.944333,90.787506,others,2018
+181,Mymensingh, muktagacha_upazila, mymensingh_tangail_highway,Wednesday,June,20,11,Morning,0,3,3,2,24.769955,90.301512,three_wheeler_rickshaw,2018
+182,Gopalganj, kotalipara_upazila,,Wednesday,June,20,19,Evening,0,1,1,1,22.990189,90.005108,others,2018
+183,Manikganj,, heMayetpur_manikganj_road,Wednesday,June,20,15,Afternoon,6,1,7,2,23.806247,90.196778,three_wheeler_van,2018
+184,Brahmanbaria,, dhaka_sylhet_highway,Wednesday,June,20,12,Morning,0,3,3,2,23.838621,90.617718,truck_car,2018
+185,Khulna,dumuria_upazila,,Thursday,June,21,12,Morning,23,5,28,1,22.828086,89.452371,bus,2018
+186,Bhola,helipad_area_charfassion_upazila,,Thursday,June,21,9,Morning,0,2,2,2,22.192931,90.722919,others,2018
+187,Kishoreganj, pakundia_upazila,,Thursday,June,21,14,Afternoon,11,1,12,2,24.327819,90.679693,bus_van,2018
+188,Khagrachhari, lemuchhari_sadar_upazila,,Thursday,June,21,11,Morning,0,1,1,2,23.110279,91.988017,bus_cycle,2018
+189,Naogaon,sapahar,,Thursday,June,21,16,Afternoon,4,3,7,2,25.12477,88.588214,truck_rickshaw,2018
+190,Naogaon, badalgachhi,,Thursday,June,21,13,Afternoon,3,1,4,2,24.968345,88.913706,truck_rickshaw,2018
+191,Chittagong, raozan_upazila, chittagang_rangamati_upazila,Friday,June,22,16,Afternoon,0,3,3,1,22.661094,92.167399,bus,2018
+192,Sirajganj, bhuiagati_raiganj_upazila,,Friday,June,22,15,Afternoon,20,2,22,1,24.519617,89.532394,bus,2018
+193,Jhenaidah,, jhenidah_Kushtia_highway,Friday,June,22,14,Afternoon,0,1,1,2,23.733375,89.143503,van_cycle,2018
+194,Jessore,, chaugachha_jhikrgachha_road,Friday,June,22,12,Morning,0,1,1,1,23.100511,89.099289,bus,2018
+195,Sirajganj,, bonpara_hatikumrul_highway,Sunday,June,24,7,Morning,0,2,2,2,24.423197,89.575531,bus_van,2018
+196,Dhaka, savar, dhaka_aricha_highway,Sunday,June,24,8,Morning,0,1,1,2,23.890279,90.034334,van_cycle,2018
+197,Chittagong, port_city,,Sunday,June,24,4,Morning,1,0,1,1,22.360651,91.794992,truck,2018
+198,Sirajganj, zila_porishad_office_district town,,Sunday,June,24,10,Morning,1,0,1,1,24.443984,89.680961,others,2018
+199,Mymensingh,,,Monday,June,25,14,Afternoon,0,2,2,2,24.745173,90.414692,bus_three_wheeler,2018
+200,Gaibandha, kalitonla_gobindaganj_upazila,,Monday,June,25,12,Morning,4,1,5,1,25.138757,89.381247,bus,2018
+201,Tangail, kalihati_busstand, tangail_mymensingh_highway,Monday,June,25,6,Morning,31,5,36,1,24.303428,89.919332,truck,2018
+202,Gaibandha, enayetpur_bazar, sadullapur_madarganj_road,Thursday,June,28,16,Afternoon,3,1,4,2,25.394297,89.452795,bus_rickshaw,2018
+203,Chittagong,chakaria_upazilla, chittagang_Cox's Bazar_highway,Saturday,March,3,6,Morning,4,4,8,3,21.753111,90.077116,bus,2018
+204,Dinajpur,kalai_upazilla, Jaipurhat_kalai_road,Saturday,March,3,8,Morning,0,1,1,1,25.065354,89.162825,van,2018
+205,Brahmanbaria, akhaura_upazilla, comilla_sylhet_highway,Saturday,March,3,10,Morning,0,1,1,1,23.87057,91.14415,three_wheeler,2018
+206,Gopalganj,sadar_upazilla, dhaka_khulna_highway,Sunday,March,4,17,Afternoon,2,1,3,2,23.000918,89.837776,truck_rickshaw,2018
+207,Mymensingh, kalibari_area,,Sunday,March,4,19,Evening,0,1,1,2,24.755978,90.412416,truck_cycle,2018
+208,Jamalpur, sarishabari_upazila,,Sunday,March,4,21,Night,0,1,1,1,24.447396,89.824283,rickshaw,2018
+209,Kushtia,,Kushtia_khulna_highway,Tuesday,March,6,11,Morning,10,4,24,2,23.890502,89.111626,bus_rickshaw,2018
+210,Mymensingh, nandail_municipality,,Tuesday,March,6,10,Morning,0,2,2,2,24.57267,90.691688,truck_rickshaw,2018
+211,Mymensingh, nandail_municipality, dhaka_mymensingh_highway,Tuesday,March,6,12,Morning,2,2,4,1,24.271276,90.395235,others,2018
+212,Narsingdi,,narsingdi_raipura_road,Tuesday,March,6,13,Afternoon,0,1,1,3,23.989122,90.8748,truck,2018
+213,Dinajpur,,dinajpur_panchagarh_higway,Tuesday,March,6,18,Evening,0,1,1,1,26.334767,88.553326,others,2018
+214,Mymensingh, trishal_upazila, dhaka_mymensingh_highway,Wednesday,March,7,11,Morning,0,1,1,1,24.273184,90.394795,others,2018
+215,Thakurgaon, pirganj_upazila, pirgank_katihar_road,Wednesday,March,7,10,Morning,3,2,5,1,25.845012,88.36467,three_wheeler,2018
+216,Thakurgaon, boda_upazila, boda_marea_road,Wednesday,March,7,14,Afternoon,0,1,1,1,26.20481,88.557466,bus,2018
+217,Natore,,,Wednesday,March,7,16,Afternoon,0,1,1,2,24.411555,88.971814,truck_cycle,2018
+218,Chittagong,,,Wednesday,March,7,17,Afternoon,0,1,1,2,22.363073,91.784847,truck_cycle,2018
+219,Manikganj,joka_ghior_upazila,,Wednesday,March,14,13,Afternoon,20,1,21,1,23.871797,89.98184,bus,2018
+220,Mymensingh, trishal_upazila, dhaka_mymensingh_highway,Wednesday,March,14,12,Morning,0,2,2,2,24.579129,90.39525,bus_car,2018
+221,Feni,,barahipur_rail_crossing,Wednesday,March,21,4,Morning,2,4,6,2,23.026855,91.384439,others,2018
+222,Jamalpur,baksiganj_upazila,,Friday,March,23,5,Morning,0,1,1,1,25.182524,89.870138,truck,2018
+223,Mymensingh, ishwarganj_upazila, mymensing_kishoreganj_road,Friday,March,23,10,Morning,1,1,2,1,24.450026,90.777502,rickshaw,2018
+224,Chittagong,port_city, badamoti_intersection,Saturday,March,24,6,Morning,0,1,1,1,22.360651,91.794992,others,2018
+225,Chittagong,sitakunda_upazila,,Saturday,March,24,18,Evening,6,1,7,2,22.616452,91.678189,truck,2018
+226,Manikganj,khalpar_manikganj_town,,Saturday,March,24,13,Afternoon,0,1,1,1,23.860162,90.000653,rickshaw,2018
+227,Dinajpur,phulbari_upazila,,Friday,March,23,22,Night,20,0,20,1,25.503907,88.94175,bus,2018
+228,Faridpur,,dhaka_khulna_highway,Saturday,March,24,4,Morning,0,1,1,1,23.29411,89.818055,truck,2018
+229,Jessore,sharsha_upazila, navaron_satkhira_highway,Sunday,March,25,17,Afternoon,7,3,10,2,23.061306,89.010591,truck_three_wheeler,2018
+230,Dhaka,shahbag,,Monday,March,26,5,Morning,3,0,3,2,23.738387,90.393873,truck_van,2018
+231,Chittagong,natunbazar_area,,Tuesday,March,27,12,Morning,0,3,3,2,22.343961,91.789315,three_wheeler_rickshaw,2018
+232,Chittagong,sitakunda,bhatiari_area_roadside,Tuesday,March,27,10,Morning,0,1,1,2,22.613097,91.661701,others,2018
+233,Chittagong,chandanaish_upazila,,Tuesday,March,27,24,Night,0,1,1,1,22.245846,92.017729,truck,2018
+234,Manikganj,singair_upazila,,Tuesday,March,27,4,Morning,0,1,1,2,23.81093,90.066293,others,2018
+235,Manikganj,manikganj_municipality_area,,Tuesday,March,27,15,Afternoon,0,1,1,1,23.869352,89.993677,rickshaw,2018
+236,Manikganj,bewtha_bridge,,Tuesday,March,27,18,Evening,4,0,4,1,23.853113,90.001344,others,2018
+237,Comilla,chouddagram_upazila,,Tuesday,March,27,5,Morning,0,2,2,2,23.428889,91.187721,truck,2018
+238,Pirojpur,sadar_upazilla, kumarkhli_road,Tuesday,March,27,19,Evening,0,1,1,1,23.861818,89.243275,cycle,2018
+239,Mymensingh,,dhaka_mymensingh_highway,Thursday,March,29,24,Night,10,1,11,2,24.711307,90.410602,bus_truck,2018
+240,Dinajpur,khansama_upazila,,Thursday,March,29,12,Morning,0,1,1,2,25.925608,88.72844,cycle,2018
+241,Dinajpur,phulbari_upazila,,Wednesday,March,28,10,Morning,0,1,1,1,25.503559,88.942609,three_wheeler,2018
+242,Habiganj,nabinagar_upazila,,Thursday,March,29,15,Afternoon,0,1,1,1,23.88922,90.98362,bus,2018
+243,Sylhet,golapganj_upazila,,Thursday,March,29,11,Morning,40,0,40,1,23.015477,89.843796,bus,2018
+244,Bandarban,balaghata,,Saturday,March,31,19,Evening,2,1,3,2,22.202891,92.219195,bus_cycle,2018
+245,Bandarban,laimipara,,Saturday,March,31,15,Afternoon,9,0,9,1,22.156383,92.215373,bus,2018
+246,ChapaiNawabganj,enayetpur_gomostapur_upazila,,Saturday,March,31,8,Morning,0,1,1,1,24.845088,88.399786,bus,2018
+247,Dinajpur,balapara_area, dinajpur_rangpur_highway,Saturday,March,31,5,Morning,0,1,1,1,25.440387,89.300768,bus,2018
+248,Dhaka,hatirjheel,,Tuesday,May,1,15,Afternoon,0,2,2,1,23.758655,90.409219,cycle,2018
+249,Jhenaidah,maidia,dhaka_khulna_highway,Wednesday,May,2,14,Afternoon,5,4,9,1,23.123501,89.246629,truck,2018
+250,Rajbari,kalukhali,satmazbari,Tuesday,May,1,14,Afternoon,0,2,2,2,23.759464,89.502168,truck_cycle,2018
+251,Mymensingh,seedstore,dhaka_mymensingh_highway,Wednesday,May,2,7,Morning,2,4,6,2,24.331528,90.377089,bus_truck,2018
+252,Chittagong,bhatiari,dhaka_chittagong_highway,Wednesday,May,2,7,Morning,0,1,1,1,22.438618,91.73807,van,2018
+253,Tangail,basail,,Wednesday,May,2,10,Morning,0,1,1,1,24.22994,90.051885,truck,2018
+254,Bogra,sonatala,tinmatha_railgate,Thursday,May,3,11,Morning,0,1,1,1,24.841874,89.347142,others,2018
+255,Bogra,dhunat,,Thursday,May,3,11,Morning,2,1,3,2,24.677825,89.543329,cycle_van,2018
+256,Bogra,,bogra_rangpur_highway,Thursday,May,3,8,Morning,1,1,2,2,24.895285,89.359228,truck_rickshaw,2018
+257,Rajshahi,charghat,sishutala,Thursday,May,3,10,Morning,1,1,2,1,24.277768,88.752369,truck,2018
+258,Dhaka,paltan,,Friday,May,4,20,Night,0,1,1,1,23.736094,90.414357,van,2018
+259,Dhaka,jatrabari,mridhabari,Friday,May,4,23,Night,13,0,13,1,23.713026,90.452375,car,2018
+260,Dinajpur,kaharot,kaharot_pirganj_road,Friday,May,4,21,Night,0,1,1,1,25.794623,88.597081,bus,2018
+261,Brahmanbaria,kasba,shahpur,Saturday,May,5,18,Evening,1,3,4,2,23.755376,91.115189,truck_cycle,2018
+262,Gopalganj,pathalia,dhaka-khulna_highway,Monday,May,7,19,Evening,1,3,4,1,23.043472,89.789169,truck,2018
+263,Sirajganj,raMarchar,dhaka_rajshahi_highway,Monday,May,7,20,Night,3,2,5,2,24.350993,89.315775,bus_three_wheeler,2018
+264,Bagerhat,,khulna_mawa_highway,Monday,May,7,18,Evening,20,1,21,1,22.820367,89.744494,bus,2018
+265,Rangpur,kaunia,,Tuesday,May,8,13,Afternoon,0,1,1,2,25.776616,89.428429,truck_cycle,2018
+266,Rangpur,,gaibandha_shaghata_road,Tuesday,May,8,15,Afternoon,0,1,1,2,25.175802,89.584205,cycle_three_wheeler,2018
+267,Dinajpur,akkelpur,panchmatha,Tuesday,May,8,19,Evening,0,1,1,2,25.621418,88.643609,truck_cycle,2018
+268,Gopalganj,gimadanga,,Tuesday,May,8,19,Evening,1,1,2,2,22.912524,89.892963,bus_cycle,2018
+269,Patuakhali,fatullabazar,dhaka_kuakata_highway,Thursday,May,10,7,Morning,1,1,2,2,22.058285,90.237929,bus_cycle,2018
+270,Mymensingh,tarakanda,mymensingh_sherpur_road,Friday,May,11,18,Afternoon,0,2,2,2,24.870953,90.419389,three_wheeler_rickshaw,2018
+271,Mymensingh,tarakanda,mymensingh_sherpur_road,Friday,May,11,17,Afternoon,1,4,5,2,24.873849,90.417849,bus_three_wheeler,2018
+272,Dhaka,mirpur,diabari,Friday,May,11,14,Afternoon,10,3,13,2,23.796929,90.340654,bus_car,2018
+273,Dhaka,uttara,,Friday,May,11,9,Morning,1,1,2,2,23.873083,90.368208,bus_rickshaw,2018
+274,Chittagong,sitakunda,dhaka_chittagong_highway,Saturday,May,12,9,Morning,0,1,1,1,22.610639,91.662965,truck,2018
+275,Rangpur,kaunia,,Saturday,May,12,5,Morning,0,1,1,2,25.776616,89.428429,truck,2018
+276,Naogaon,munda,bholabazar,Sunday,May,13,9,Morning,0,1,1,2,24.892893,88.736618,bus_cycle,2018
+277,Dhaka,,Mayor_hanif_flyover,Thursday,May,17,20,Night,0,1,1,2,23.713328,90.427335,bus,2018
+278,Jamalpur,,,Thursday,May,17,18,Night,2,1,3,2,24.907481,89.954409,cycle_car,2018
+279,Pabna,rirajganj,hatikumrul_bonpara_highway,Thursday,May,17,19,Night,4,3,7,2,24.327646,89.208903,bus_van,2018
+280,Chittagong,gec,,Friday,May,18,20,Night,0,1,1,1,22.358939,91.821357,bus,2018
+281,Brahmanbaria,malihata,dhaka_sylhet_highway,Saturday,May,19,6,Morning,0,3,3,2,24.042669,90.854645,car_rickshaw,2018
+282,Dhaka,heMaytepur,dhaka_aricha_highway,Monday,May,21,23,Night,0,1,1,1,23.851208,90.258791,bus,2018
+283,Manikganj,shivalaya,dhaka_aricha_highway,Monday,May,21,24,Night,0,1,1,1,23.838625,89.792054,truck,2018
+284,Bogra,birgram,natore_bogra_highway,Wednesday,May,23,9,Morning,7,5,12,2,24.770257,89.348276,truck_car,2018
+285,Gopalganj,majighati,,Wednesday,May,23,15,Afternoon,1,3,4,2,23.01385,89.831777,cycle,2018
+286,Rangpur,pirganj,rangpur_bogra_highway,Wednesday,May,23,16,Afternoon,1,2,3,1,25.419151,89.314745,bus,2018
+287,Pirojpur,firestation,,Wednesday,May,23,13,Afternoon,2,1,3,2,22.579483,89.987246,cycle_three_wheeler,2018
+288,Thakurgaon,,thakurgaon_dinajpur_highway,Wednesday,May,23,12,Morning,0,1,1,2,26.014873,88.475514,truck_cycle,2018
+289,Pabna,atghoria,,Thursday,May,24,20,Night,1,2,3,2,24.087216,89.220526,bus_cycle,2018
+290,Chittagong,sitakunda,dhaka_chittagong_highway,Thursday,May,24,23,Night,0,1,1,2,22.53391,91.698583,bus_car,2018
+291,Chittagong,sitakunda,dhaka_chittagong_highway,Friday,May,25,22,Night,0,2,2,2,22.527082,91.702019,truck_van,2018
+292,Jhenaidah,itkhola,magura_jhenidah_road,Saturday,May,26,22,Night,1,2,3,1,23.540783,89.244359,car,2018
+293,Dhaka,savar,dhaka_aricha_highway,Saturday,May,26,23,Night,0,1,1,1,23.843571,90.256637,van,2018
+294,Sylhet,southsurma,lalmatia,Saturday,May,26,21,Night,2,1,3,2,24.862016,91.881084,truck_car,2018
+295,Jhalokati,rajarpur,barisal_patharghata_road,Sunday,May,27,8,Morning,0,1,1,1,22.537923,90.171207,rickshaw,2018
+296,Narayanganj,siddirganj,dhaka_chittagong_highway,Sunday,May,27,10,Morning,0,1,1,1,23.697699,90.508748,car,2018
+297,Madaripur,chotokerchar,dhaka_khulna_highway,Sunday,May,27,11,Morning,2,1,3,1,23.229605,90.017841,truck,2018
+298,Bandarban,,,Sunday,May,27,12,Morning,0,1,1,1,22.194695,92.217024,truck,2018
+299,Gopalganj,,dhaka_khulna_highway,Monday,May,28,20,Night,1,1,2,2,22.999478,89.837154,car_rickshaw,2018
+300,Jamalpur,,jamalpur_mymensingh_road,Monday,May,28,21,Night,4,1,5,2,24.912708,89.977618,car_three_wheeler,2018
+301,Jessore,,chowgacha_narayanpur_road,Monday,May,28,20,Night,0,1,1,1,23.260989,89.023388,car,2018
+302,Panchagarh,boda,,Monday,May,28,23,Night,0,1,1,1,26.196344,88.55892,cycle,2018
+303,Rajshahi,godgarl,,Saturday,December,30,11,Morning,25,0,20,1,24.361265,88.604923,bus,2017
+304,Gopalganj,kotalipara,,Wednesday,November,1,19,Evening,2,1,3,2,22.99238,90.018717,truck_cycle,2017
+305,Gopalganj,kashiani,dhaka_barisal_highway,Tuesday,October,31,18,Evening,0,1,1,2,23.074603,90.210088,truck_cycle,2017
+306,Chittagong,omargani,,Wednesday,November,1,16,Afternoon,0,1,1,1,22.360557,91.816812,car,2017
+307,Jamalpur,mesta,,Wednesday,November,1,19,Evening,0,1,1,1,24.929306,89.944397,rickshaw,2017
+308,Naogaon,jagdash,,Wednesday,November,1,20,Night,0,1,1,1,24.58791,89.023431,rickshaw,2017
+309,Patuakhali,tiakhali,,Thursday,November,2,8,Morning,0,1,1,1,21.984403,90.228438,rickshaw,2017
+310,Dinajpur,salbagan,Dinajpur_Panchagarh Highway,Saturday,November,4,10,Morning,0,4,4,2,25.855206,88.655194,three_wheeler_van,2017
+311,Dinajpur,salbagan,Dinajpur_Panchagarh Highway,Saturday,November,4,8,Morning,0,8,8,2,25.841892,88.657773,van_rickshaw,2017
+312,Dinajpur,bolega,kaharol_birganj_road,Saturday,November,4,6,Morning,0,1,1,1,25.806832,88.61028,bus,2017
+313,Patuakhali,,,Saturday,November,4,7,Morning,1,1,2,2,22.357784,90.341551,cycle_car,2017
+314,Faridpur,komorpur,Dhaka_khulna Highway,Saturday,November,4,14,Noon,0,1,1,2,23.306973,89.848811,cycle_three_wheeler,2017
+315,Chittagong,NCB,,Saturday,November,4,6,Morning,0,1,1,2,22.310787,91.800618,truck_van,2017
+316,Pabna,mozidpur,pabna_rajshahi_highway,Sunday,November,5,15,Afternoon,5,2,7,1,24.007793,89.238148,bus,2017
+317,Dinajpur,mithapukur,,Sunday,November,5,7,Morning,10,1,11,1,25.572999,89.274429,bus,2017
+318,Dinajpur,basherhat,dinajpur_thakurgaon_road,Sunday,November,5,9,Morning,2,1,3,1,25.976191,88.512546,truck,2017
+319,Chittagong,,,Sunday,November,5,8,Morning,1,1,2,1,22.304422,91.792893,cycle,2017
+320,Faridpur,konshu,gopalganj_takerhat_road,Saturday,November,4,9,Morning,0,1,1,1,23.556213,89.853887,cycle,2017
+321,Natore,manikpur,bonpara_hatiqumrul_highway,Monday,November,6,16,Afternoon,0,1,1,1,24.318319,89.164937,truck,2017
+322,Chittagong,oxyjenmor,,Tuesday,November,7,15,Afternoon,0,1,1,1,22.393461,91.821444,truck,2017
+323,ChapaiNawabganj,ranirhat,,Tuesday,November,7,6,Morning,0,1,1,2,24.681413,88.156201,truck_rickshaw,2017
+324,Jamalpur,malancha,jamalpur_dewanganj_road,Thursday,November,9,7,Morning,4,2,6,2,24.979098,89.850431,van_rickshaw,2017
+325,Natore,satmail,natore_bogra_highway,Saturday,November,11,10,Morning,6,2,8,2,24.552396,89.19287,bus,2017
+326,Mymensingh,bhaitkandi,mymensingh_sherpur_road,Friday,November,10,22,Night,0,1,1,1,24.957829,90.302494,cycle,2017
+327,Jessore,,,Sunday,November,12,16,Afternoon,0,1,1,2,23.041408,88.897498,truck_cycle,2017
+328,Gopalganj,kodompur,Dhaka_khulna Highway,Saturday,November,11,11,Morning,0,1,1,1,23.30713,89.849264,bus,2017
+329,Faridpur,,,Tuesday,November,14,16,Afternoon,14,2,16,2,23.533911,89.86771,bus_van,2017
+330,Chittagong,hathazari,,Tuesday,November,14,19,Evening,1,2,3,1,22.501518,91.807146,bus,2017
+331,Bagerhat,bokultola,bagerhat_pirojpur_highway,Tuesday,November,14,20,Night,40,2,42,1,22.602596,89.884145,bus,2017
+332,Dinajpur,doshmile,Dinajpur_Panchagarh Highway,Monday,November,13,19,Evening,1,2,3,1,25.817224,88.66651,truck,2017
+333,Rajshahi,godagari,,Wednesday,November,15,24,Night,1,2,3,2,24.456389,88.335486,truck_three_wheeler,2017
+334,Patuakhali,pakhimara,dhaka_kuakata_road,Wednesday,November,15,9,Morning,15,1,16,1,22.057983,90.237931,bus,2017
+335,Natore,dalsarak,natore_bogra_highway,Thursday,November,16,10,Morning,4,3,7,2,24.57986,89.223905,three_wheeler_rickshaw,2017
+336,Dinajpur,khetabmore,dinajpur_bogra_highway,Thursday,November,16,16,Afternoon,0,1,1,1,25.278049,89.23763,others,2017
+337,Dinajpur,biral,,Thursday,November,16,17,Afternoon,0,1,1,2,25.684119,88.548894,truck_car,2017
+338,Pirojpur,poykhali,,Thursday,November,16,15,Afternoon,0,1,1,2,22.486328,90.061407,cycle_three_wheeler,2017
+339,Noakhali,takkar,sonapur_road,Sunday,November,19,16,Afternoon,0,1,1,1,22.838792,91.152027,van,2017
+340,Jhenaidah,baishakhi,Jhenaidah_jessore_road,Saturday,November,18,23,Night,0,1,1,1,23.408386,89.135061,bus,2017
+341,Chittagong,bayezid,,Sunday,November,19,14,Afternoon,0,1,1,1,22.389918,91.824168,truck,2017
+342,Bagerhat,,bagerhat_khulna_highway,Sunday,November,19,12,Noon,0,1,1,2,23.044084,89.788288,bus_car,2017
+343,Kurigram,pathari,,Monday,November,20,10,Morning,0,3,3,1,25.971096,89.688352,cycle,2017
+344,Pirojpur,howladar,,Saturday,November,25,9,Morning,4,1,5,2,22.638392,90.01209,car_rickshaw,2017
+345,Pirojpur,mathbaria,,Saturday,November,25,13,Noon,0,1,1,1,22.288671,89.959099,car,2017
+346,Gaibandha,sundarganj,dhupni_kanchibari_road,Saturday,November,25,19,Evening,0,1,1,1,25.500125,89.596064,rickshaw,2017
+347,Kurigram,patswaribazar,,Saturday,November,25,16,Afternoon,0,1,1,2,25.800335,89.637119,truck_cycle,2017
+348,Chittagong,AK khangate,,Friday,November,24,23,Night,0,1,1,1,22.360098,91.781403,bus,2017
+349,Naogaon,manda,naogaon_rajshahi_highway,Sunday,November,26,20,Night,2,2,4,1,24.7888,88.723536,bus,2017
+350,Patuakhali,karamjatalali,patuakhali_kuakata_road,Tuesday,November,28,9,Morning,1,2,3,1,21.873761,90.131102,truck,2017
+351,Natore,ahmedpur,natore_dhaka_highway,Tuesday,November,28,14,Noon,0,2,2,2,24.328722,89.074439,truck_cycle,2017
+352,Natore,garmati,natore_pabna_highway,Tuesday,November,28,19,Evening,2,1,3,2,24.236943,89.112139,truck_car,2017
+353,Barisal,,,Tuesday,November,28,19,Evening,5,1,6,1,22.710956,90.350451,truck,2017
+354,Gaibandha,gopinathpur,rangpur_bogra_highway,Tuesday,November,28,17,Evening,0,1,1,2,25.135002,89.387792,truck,2017
+355,Gaibandha,putimari,,Saturday,December,9,16,Afternoon,2,1,3,2,25.194496,89.579642,cycle,2017
+356,Chittagong,kotwali,,Saturday,December,9,9,Morning,0,1,1,1,22.342578,91.827288,bus,2017
+357,Chittagong,mirsarai,dhaka_chittagong_highway,Saturday,December,9,16,Afternoon,1,1,2,1,22.773852,91.573076,car,2017
+358,Dinajpur,panchpir,dinajpur_thakurgaon_road,Sunday,December,10,16,Afternoon,0,2,2,2,25.866236,88.646452,three_wheeler_cycle,2017
+359,Dinajpur,tentulia,dinajpur_rangpur_highway,Saturday,December,9,23,Night,0,1,1,2,25.657441,88.775824,bus_cycle,2017
+360,Thakurgaon,sardarpara,,Sunday,December,10,16,Afternoon,0,1,1,1,26.240016,88.654385,truck,2017
+361,Tangail,kalihati,,Sunday,December,10,8,Morning,12,3,15,2,24.390197,89.817892,bus_truck,2017
+362,Tangail,kalihati,,Sunday,December,10,7,Morning,0,1,1,1,24.389845,89.818407,bus,2017
+363,Rajshahi,godahari,,Wednesday,December,13,16,Afternoon,20,2,22,2,24.456554,88.33529,bus,2017
+364,Rajshahi,,,Wednesday,December,13,22,Night,3,2,5,2,24.370028,88.588078,bus_cycle,2017
+365,Rangpur,pirgaccha,,Tuesday,December,12,23,Night,3,2,5,2,25.670422,89.349507,bus_cycle,2017
+366,Sunamganj,tajpur,,Friday,December,15,16,Afternoon,0,4,4,1,24.737536,91.661371,car,2017
+367,Comilla,chiora,dhaka_chittagong_highway,Friday,December,15,9,Morning,1,2,3,2,23.168569,91.321228,bus_cycle,2017
+368,Comilla,,,Friday,December,15,11,Morning,0,1,1,2,23.44448,91.149059,bus_car,2017
+369,Faridpur,nagarkanda,,Sunday,December,17,10,Morning,0,1,1,1,23.420253,89.894889,three_wheeler,2017
+370,ChapaiNawabganj,roshiknagar,,Sunday,December,17,9,Morning,0,1,1,1,24.680151,88.166263,truck,2017
+371,Gopalganj,muksudpur,dhaka_barisal_highway,Monday,December,18,16,Afternoon,0,1,1,1,23.28287,90.012325,car,2017
+372,Mymensingh,tarakanda,mymensingh_netrokona_road,Wednesday,December,20,11,Morning,3,2,5,2,24.843666,90.582685,truck_rickshaw,2017
+373,Gaibandha,jundaha,rangpur_bogra_highway,Thursday,December,21,14,Noon,0,2,2,2,25.135747,89.387427,bus_cycle,2017
+374,Dhaka,,ashulia_beribadth_road,Thursday,December,21,23,Night,0,2,2,1,23.894646,90.376133,van,2017
+375,Tangail,kalihati,tangail_bhuapur_road,Friday,December,22,16,Afternoon,3,2,5,2,24.358671,89.926177,bus_three_wheeler,2017
+376,Rajshahi,puthia,rajshahi_natore_hghway,Friday,December,22,16,Afternoon,0,1,1,1,24.361813,88.836305,truck,2017
+377,Rajshahi,kamarpara,,Friday,December,22,17,Afternoon,0,1,1,1,24.363549,88.836924,truck,2017
+378,Dinajpur,parbatipur,,Saturday,December,23,8,Morning,4,1,5,2,25.738334,89.123856,others,2017
+379,Narayanganj,fatulla,dhaka_narayanganj_highway,Sunday,December,24,16,Afternoon,0,1,1,1,23.655853,90.489319,car,2017
+380,Naogaon,piraldanga,Jaipurhat_dhamoirhat_road,Saturday,December,23,19,Evening,0,1,1,1,25.150304,88.851465,others,2017
+381,Naogaon,piraldanga,,Saturday,December,23,20,Evening,0,1,1,1,25.050014,88.76212,others,2017
+382,ChapaiNawabganj,,,Sunday,December,24,9,Morning,0,1,1,2,24.739891,88.291938,three_wheeler_cycle,2017
+383,Chuadanga,noymile,,Monday,December,25,20,Evening,0,1,1,2,23.767192,88.943555,car,2017
+384,Dinajpur,phulbari,,Thursday,December,28,8,Morning,15,0,15,2,25.499867,88.954981,bus_truck,2017
+385,Chittagong,,dhaka_chittagong_highway,Thursday,December,28,7,Morning,0,1,1,1,22.38373,91.763496,van,2017
+386,Chittagong,,,Wednesday,December,27,16,Afternoon,0,1,1,1,22.39116,91.75959,cycle,2017
+387,Jhalokati,,barisal_khulna_highway,Thursday,December,28,9,Morning,0,1,1,2,22.650087,90.199863,bus_cycle,2017
+388,Narsingdi,boraitola,Dhaka_sylhet_highway,Thursday,December,28,8,Morning,10,2,12,1,23.933643,90.707213,bus,2017
+389,Chittagong,sitakundo,,Saturday,December,30,6,Morning,0,1,1,1,22.612212,91.662124,bus,2017
+390,Dinajpur,birganj,,Saturday,December,30,8,Morning,20,0,20,1,25.859646,88.654971,bus,2017
+396,Mymensingh,bhaluka,dhaka_mymensingh_highway,Saturday,July,1,11,Morning,0,1,1,2,24.379518,90.377297,bus_van,2017
+398,Dinajpur,basherhat,dinajpur_rangpur_highway,Saturday,July,1,13,Noon,25,1,26,1,25.774237,88.880431,bus,2017
+399,Narayanganj,rupganj,,Saturday,July,1,16,Afternoon,0,1,1,2,23.817081,90.537827,truck,2017
+400,Mymensingh,sadar,,Monday,July,3,15,Afternoon,18,2,20,2,24.750069,90.426108,bus,2017
+401,Jessore,notun_khojertola_area,,Sunday,July,2,20,Night,0,1,1,2,23.17721,89.178615,van_cycle,2017
+402,Dinajpur,shridahargurnai,,Monday,July,3,11,Morning,0,1,1,1,25.608147,88.689224,three_wheeler,2017
+403,Faridpur,madhukali,dhaka_khulna_highway,Monday,July,3,9,Morning,12,0,12,2,23.47799,89.417295,bus,2017
+404,Dinajpur,solomil_kaharol,dinajpur_panchagarh_highway,Tuesday,July,4,9,Morning,10,3,13,2,26.336963,88.555165,bus_rickshaw,2017
+405,Dinajpur,,,Tuesday,July,4,9,Morning,2,1,3,2,25.618203,88.648294,cycle,2017
+406,Rajbari,rampur,,Tuesday,July,4,9,Morning,0,1,1,1,23.700893,89.618517,three_wheeler,2017
+407,Brahmanbaria,bijoynagar,dhaka_sylhet_highway,Tuesday,July,4,13,Noon,0,1,1,1,24.051088,90.989769,bus,2017
+408,Faridpur,bakhunda,dhaka_Barisal_highway,Wednesday,July,5,10,Morning,2,1,3,2,22.707747,90.351521,bus_cycle,2017
+409,Dinajpur,bus_stand,,Wednesday,July,5,10,Morning,0,1,1,1,25.281309,89.010076,bus,2017
+410,Chittagong,patiya,chittagong_cox'x_bazar_highway,Wednesday,July,5,11,Morning,15,0,15,1,22.362879,91.909503,bus,2017
+411,Comilla,lakhhipur,dhaka_chittagong_highway,Friday,July,7,10,Morning,2,3,5,2,23.437963,91.15189,others,2017
+412,Jhenaidah,magura_sadar,,Thursday,July,6,22,Night,20,2,22,2,23.490037,89.424165,bus,2017
+413,Bogra,jamtola,bogra_dhaka_highway,Saturday,July,8,1,Morning,0,1,1,1,24.827057,89.355313,truck,2017
+414,Chittagong,banshabari_sitakunda,dhaka_chittagong_highway,Saturday,July,8,2,Morning,0,1,1,1,22.384117,91.763271,others,2017
+415,Manikganj,saturia,,Saturday,July,8,7,Morning,8,1,9,2,23.970157,90.0359,others,2017
+416,Dinajpur,ghoraghat,,Sunday,July,9,8,Morning,0,1,1,1,25.273831,89.240494,bus,2017
+417,Dinajpur,durgapur,dinajpur_bogra_highway,Sunday,July,9,5,Morning,30,0,30,2,25.306644,89.342502,bus_truck,2017
+418,Narayanganj,siddhirganj,,Thursday,July,13,9,Morning,4,0,4,2,23.687547,90.48151,others,2017
+419,Narsingdi,shibpur,dhaka_sylhet_highway,Friday,July,14,10,Morning,4,2,6,2,23.933221,90.706865,truck_van,2017
+420,Bogra,sadar,bogra_rangpur_highway,Friday,July,14,12,Noon,7,1,8,2,24.826891,89.355603,bus_truck,2017
+421,Chittagong,patiya,,Friday,July,14,11,Morning,9,0,9,1,22.295906,91.97843,bus,2017
+422,Faridpur,sadarpur,faridpur_sadarpur_road,Friday,July,14,21,Night,0,1,1,2,23.474818,90.049032,three_wheeler_cycle,2017
+423,Chittagong,mirshari,dhaka_chittagong_highway,Sunday,July,16,9,Morning,10,3,13,1,22.384186,91.763164,others,2017
+424,Comilla,kodalia_nangolkot,,Sunday,July,16,9,Morning,2,1,3,2,23.46138,91.179749,truck_cycle,2017
+425,Jessore,,,Saturday,July,15,20,Night,0,1,1,2,23.184298,89.187971,bus,2017
+426,Sirajganj,hatikumrul_intersection,,Saturday,July,22,24,Night,0,3,3,1,24.429177,89.547479,truck,2017
+427,Sirajganj,kazipur,,Saturday,July,22,11,Morning,15,2,17,1,24.455241,89.690232,bus,2017
+428,Sirajganj,sadar,nalka_shialkole_road,Saturday,July,22,9,Morning,0,1,1,2,24.449534,89.676416,bus_cycle,2017
+429,Lalmonirhat,hatibandha,,Saturday,July,22,13,Noon,0,2,2,1,26.140991,89.134998,truck,2017
+430,Bogra,,bogra_natore_road,Saturday,July,22,19,Evening,0,1,1,2,24.83201,89.349767,truck_rickshaw,2017
+431,Gazipur,MC_bazar_shreepur,,Saturday,July,22,16,Afternoon,0,1,1,2,24.241488,90.403528,van_cycle,2017
+432,Gopalganj,betgram,dhaka_khulna_highway,Friday,July,21,11,Morning,4,1,5,2,22.973449,89.824329,truck_three_wheeler,2017
+433,Dinajpur,harirampur_parbatipur,phulbari_mithapukur_road,Saturday,July,22,8,Morning,0,1,1,1,25.504975,88.973473,van,2017
+434,Jessore,sadar,,Saturday,July,22,19,Evening,1,1,2,2,23.184298,89.187971,bus_cycle,2017
+435,Faridpur,sadar,dhaka_khulna_highway,Friday,July,21,1,Morning,0,1,1,2,23.305882,89.845689,bus,2017
+436,Faridpur,madhukali,dhaka_khulna_highway,Saturday,July,22,7,Morning,23,0,23,1,23.305882,89.845689,bus,2017
+437,Naogaon,mohadevpur,naogaon_rajshahi_road,Sunday,July,23,16,Afternoon,1,2,3,2,24.855384,88.83387,others,2017
+438,Rangpur,badarganj,,Tuesday,July,25,16,Afternoon,0,1,1,2,25.653119,89.067364,others,2017
+439,Panchagarh,daulatpara_tetulia,,Monday,July,24,15,Afternoon,0,1,1,2,26.334209,88.552122,bus_cycle,2017
+440,Bagerhat,daratana_bridge,,Monday,July,31,13,Noon,0,1,1,1,22.643073,89.80385,others,2017
+441,Thakurgaon,baliadangi,thakurgaon_baliadangi_highway,Monday,July,31,9,Morning,3,1,4,1,26.146776,88.292689,three_wheeler,2017
+442,Jhalokati,sottarkanda,Barisal_khulna_highway,Thursday,August,3,9,Morning,25,1,26,2,22.640116,90.198128,bus_three_wheeler,2017
+443,Satkhira,bhairabnagar_tala,satkhira_khulna_highway,Friday,August,4,10,Morning,25,2,27,1,22.824823,89.324509,bus,2017
+444,Satkhira,shyamnagar,,Friday,August,4,9,Morning,1,1,2,2,22.337172,89.106502,truck_cycle,2017
+445,Satkhira,kolarawa,,Friday,August,4,8,Morning,0,1,1,1,22.325831,89.105477,cycle,2017
+446,Sirajganj,betil_enayetpur,sirajganj_enayetpur_highway,Sunday,August,6,11,Morning,3,2,5,2,24.309719,89.697695,bus_truck,2017
+447,Gaibandha,ghoagoa_union,madhupur_crossing_point,Sunday,August,6,12,Noon,0,1,1,1,25.329444,89.540875,three_wheeler,2017
+448,Chittagong,katakhar,chittagang_university_road,Sunday,August,6,13,Noon,7,0,7,2,22.472219,91.787407,rickshaw,2017
+449,Mymensingh,bhaluka_municipality,dhaka_mymensingh_highway,Monday,August,7,23,Night,35,2,37,2,24.379547,90.377372,others,2017
+450,Jamalpur,chandra_level_crossing,,Wednesday,August,9,18,Evening,1,7,8,2,24.914678,89.954889,others,2017
+451,Dhaka,,shahali_crossing_road,Thursday,August,10,16,Afternoon,0,1,1,1,23.806542,90.368901,truck,2017
+452,Dhaka,uttara_sector1,,Thursday,August,10,23,Night,0,1,1,1,23.857854,90.401815,bus,2017
+453,Dhaka,kola_airport,,Thursday,August,10,7,Morning,0,1,1,1,23.842855,90.403397,others,2017
+454,Natore,ekdala,natore_rajshahi_highway,Thursday,August,10,9,Morning,2,2,4,2,24.360523,88.61952,bus_van,2017
+455,Dinajpur,bochaganj,,Thursday,August,10,16,Afternoon,0,1,1,1,25.801781,88.460884,cycle,2017
+456,Chittagong,nimtala_port,,Sunday,August,13,10,Morning,2,3,5,2,22.314367,91.798392,others,2017
+457,Gopalganj,sadar,gopalganj_takenhat_road,Saturday,August,12,14,Afternoon,3,1,4,1,23.001805,89.821539,truck,2017
+458,Jessore,beneali_jhikargacha,jessore_Jessore_highway,Sunday,August,13,16,Afternoon,15,1,16,1,23.128497,89.151808,bus,2017
+459,Gopalganj,tungipara,gopalganj_tungipara_highway,Sunday,August,13,20,Night,0,1,1,1,23.016539,89.835577,three_wheeler,2017
+460,Patuakhali,karonjatala,patuakhli_kuakata_highway,Sunday,August,13,18,Evening,2,1,3,2,21.823673,90.119645,others,2017
+461,Habiganj,olipur_city,dhaka_sylhet_highway,Monday,August,14,9,Morning,0,2,2,2,24.62517,91.674189,bus_truck,2017
+462,Narsingdi,raipura,dhaka_sylhet_highway,Monday,August,14,8,Morning,5,2,7,2,23.933191,90.706827,bus_truck,2017
+463,Natore,rajibpur,shatni_kathuagari_road,Tuesday,August,15,14,Afternoon,0,1,1,2,24.407921,88.975413,three_wheeler_cycle,2017
+464,Naogaon,manda,rajshahi_naogaon_highway,Saturday,August,19,1,Morning,4,6,10,1,24.723423,88.68256,truck,2017
+465,Cox's Bazar,model_road,,Saturday,August,19,21,Night,6,2,8,2,21.425626,92.011304,rickshaw_car,2017
+466,Dinajpur,debirganj,dinajpur_rangpur_highway,Saturday,August,19,22,Night,0,1,1,2,25.774101,88.880044,truck_cycle,2017
+467,Barisal,bakerganj,,Saturday,August,19,19,Evening,0,1,1,2,22.540578,90.332771,others,2017
+468,Thakurgaon,baliadangi,thakurgaon_baliadangi_highway,Sunday,August,20,18,Evening,0,1,1,1,26.078678,88.309302,others,2017
+469,Thakurgaon,baliadangi,thakurgaon_baliadangi_highway,Sunday,August,20,16,Afternoon,1,0,1,1,26.078678,88.309302,cycle,2017
+470,Jessore,chowagacha,fakirtola,Sunday,August,20,17,Afternoon,0,1,1,1,23.177624,89.180466,three_wheeler,2017
+471,Patuakhali,galachipa,,Monday,August,21,10,Morning,0,1,1,1,22.165784,90.411645,three_wheeler,2017
+472,Dinajpur,biral,dinajpur_bochaganj_road,Monday,August,21,8,Morning,0,1,1,2,25.796481,88.465012,bus_cycle,2017
+473,Pabna,sujanagar,dhaka_pabna_highway,Tuesday,August,22,5,Morning,20,5,25,2,24.034169,89.43829,bus,2017
+474,Faridpur,bus_stand_vanga,dhaka_khulna_highway,Wednesday,August,23,9,Morning,10,1,11,1,23.047622,89.782939,truck,2017
+475,Nilphamari,saidpur,dhaka_dinajpur_highway,Wednesday,August,23,10,Morning,0,1,1,1,25.794857,88.906713,cycle,2017
+476,Brahmanbaria,sarail,dhaka_sylhet_highway,Wednesday,August,23,16,Afternoon,0,1,1,1,24.048727,90.991711,truck,2017
+477,Gazipur,kaliakoir,,Saturday,August,26,19,Evening,3,2,5,2,24.067035,90.221357,truck,2017
+478,Kushtia,daulatpur_thana_road,,Saturday,August,26,20,Night,0,1,1,1,22.878588,89.518056,others,2017
+479,Lakshmipur,jadia_madrasha,dhaka_Lakshmipur_road,Saturday,August,26,23,Night,0,1,1,2,23.738946,90.389487,bus_cycle,2017
+480,Sirajganj,naimuribazar_salogna,hatikumrul_bangpara_highway,Saturday,August,26,21,Night,1,1,2,1,24.45216,89.681543,bus_cycle,2017
+481,Chuadanga,sadar,,Monday,August,28,7,Morning,5,1,6,2,23.64579,88.854138,bus,2017
+482,Naogaon,sadar,chandipur_bridge,Sunday,August,27,18,Evening,0,1,1,1,24.469436,89.791579,cycle,2017
+483,Panchagarh,atuary,pachagarh_dhaka_highway,Monday,August,28,10,Morning,2,1,3,2,26.298052,88.557427,truck_cycle,2017
+484,Narayanganj,rupganj,chan_textile_mill,Monday,August,28,8,Morning,0,1,1,1,23.813215,90.539496,bus,2017
+485,Dhaka,bashbo_buddist_monastery,,Thursday,September,7,9,Morning,0,2,2,2,23.736334,90.429536,others,2017
+486,Chittagong,,bagherhat_intersection,Thursday,September,7,17,Evening,0,1,1,1,22.362789,91.78281,others,2017
+487,Chittagong,banshkali,,Thursday,September,7,9,Morning,0,1,1,1,22.356194,91.846117,three_wheeler,2017
+488,Mymensingh,tarakanda,mymensingh_haluaghat_road,Thursday,September,7,16,Afternoon,2,1,3,2,25.122196,90.333604,truck_cycle,2017
+489,Chittagong,muradpur,,Friday,September,8,17,Afternoon,0,2,2,2,22.368797,91.830613,bus_cycle,2017
+490,Jessore,sadar,,Friday,September,8,10,Morning,2,2,4,2,23.182056,89.19055,truck_car,2017
+491,Jhenaidah,kaliganj,,Friday,September,8,13,Noon,0,1,1,2,23.409167,89.1347,three_wheeler_cycle,2017
+492,Bagerhat,morelganj,,Friday,September,8,8,Morning,0,1,1,2,22.451052,89.852199,truck_van,2017
+493,Comilla,debidwar,,Thursday,September,7,22,Night,4,1,5,2,23.615087,90.977936,bus_rickshaw,2017
+494,Chittagong,mirsarai,dhaka_chittagong_highway,Monday,September,11,6,Morning,6,2,8,2,22.981786,91.416001,bus_truck,2017
+495,Rajshahi,,university_road,Monday,September,11,15,Noon,2,1,3,2,24.366196,88.638481,bus_rickshaw,2017
+496,Brahmanbaria,sarail,islamabad_bus_stand,Monday,September,11,9,Morning,30,0,30,1,24.083132,91.117014,bus,2017
+497,Dhaka,savar,dhaka_aricha_highway,Thursday,September,14,21,Night,1,1,2,2,23.851187,89.93629,others,2017
+498,Dhaka,savar,CB_area,Friday,September,15,4,Morning,0,1,1,1,23.86822,90.271712,truck,2017
+499,Chittagong,city's_cinema_palace,,Friday,September,15,7,Morning,0,2,2,2,22.328466,91.821241,truck_rickshaw,2017
+500,Sunamganj,nurpur,sylhet_sunamganj_highway,Friday,September,22,16,Afternoon,7,2,9,1,25.069349,91.405992,bus,2017
+501,Rangpur,jaigirhat,rangpur_bogra_highway,Wednesday,September,20,18,Evening,0,2,2,2,24.818695,89.374059,cycle_van,2017
+502,Chittagong,sitakunda,dhaka_chittagong_highway,Friday,September,22,9,Morning,0,1,1,1,22.981786,91.41598,bus,2017
+503,Chittagong,,foujdarhat_bypass,Wednesday,September,20,24,Night,0,1,1,1,22.402622,91.755796,bus,2017
+504,Jaipurhat,panchbini,Jaipurhat_hill_road,Thursday,September,28,12,Noon,1,2,3,2,25.036967,89.271843,truck_cycle,2017
+505,Barisal,Barisal_univesity,Barisal_patuakhali_highway,Saturday,September,9,19,Evening,0,1,1,1,22.553241,90.335414,others,2017
+506,Comilla,adorsho_sadar,dhaka_chittagong_highway,Friday,September,29,11,Morning,0,2,2,1,22.979672,91.418061,van,2017
+507,Rangpur,,,Saturday,September,9,17,Afternoon,0,2,2,2,25.740864,89.25346,bus_cycle,2017
+508,Jhenaidah,shailakupa,,Saturday,September,9,16,Afternoon,0,1,1,1,23.684962,89.239775,rickshaw,2017
+509,Jhalokati,gobindo_debol,,Tuesday,September,26,22,Night,0,1,1,1,22.643229,90.206407,cycle,2017
+510,Faridpur,nagarkanda,,Tuesday,September,26,10,Morning,11,3,14,1,23.42389,89.890931,bus,2017
+511,Noakhali,senbag,noakhali_feni_highway,Thursday,September,14,23,Night,18,3,21,2,22.947777,91.249204,bus,2017
+512,Jaipurhat,panchbibi,pachbibi_hakimpur_road,Thursday,September,14,2,Morning,1,1,2,2,25.274288,89.013022,truck_cycle,2017
+513,Bagerhat,sharankhola,,Thursday,September,14,1,Morning,0,1,1,1,22.314069,89.848723,bus,2017
+514,Satkhira,sadar,satkhira_bhomra_road,Thursday,September,14,13,Noon,0,1,1,2,22.671035,88.966636,truck,2017
+515,Satkhira,tujulpur_bazar,,Thursday,September,14,11,Morning,0,1,1,1,22.716889,89.070566,truck,2017
+516,Chittagong,satkhira,,Saturday,September,1,10,Morning,9,2,11,1,22.722272,89.067993,bus,2017
+517,Chittagong,mirsarai,dhaka_chittagong_highway,Saturday,September,1,10,Morning,9,1,10,2,22.980937,91.416763,bus_van,2017
+518,Chittagong,ramu,chittagong_cox'x_bazar_highway,Monday,September,4,6,Morning,15,3,18,1,22.352074,91.913396,bus,2017
+519,Mymensingh,trisal,dhaka_mymensingh_highway,Monday,September,4,16,Afternoon,0,2,2,1,24.271033,90.39546,cycle,2017
+520,Sirajganj,shahzadpur,,Saturday,September,1,8,Morning,0,3,3,2,24.178567,89.588506,truck_three_wheeler,2017
+521,Comilla,Daudkandi,dhaka_chittagong_highway,Friday,August,31,20,Night,5,3,8,2,23.438052,91.151933,bus_three_wheeler,2017
+522,Dhaka,court_mazar,,Sunday,September,2,10,Morning,3,0,3,1,23.72857,90.403804,bus,2017
+523,Rangpur,mithapukur_jaigirhat,dhaka_rangpur_highway,Monday,October,2,11,Morning,3,3,6,2,25.444837,89.299573,bus_van,2017
+524,Dinajpur,sadar,rangpur_dinajpur_highway,Monday,October,2,10,Morning,0,2,2,2,25.615416,88.651383,bus_three_wheeler,2017
+525,Jessore,monirampur,rajarhat_chuknagar_road,Monday,October,2,15,Afternoon,0,1,1,1,22.633512,88.464188,others,2017
+526,Thakurgaon,baliadangi,,Tuesday,October,3,22,Night,2,1,3,2,26.084373,88.279481,cycle,2017
+527,Jessore,panchbaria,jessore_magura_road,Wednesday,October,4,16,Afternoon,0,1,1,2,23.041109,88.899428,bus_cycle,2017
+528,Jessore,,jessore_narail_road,Wednesday,October,4,8,Morning,0,1,1,1,23.16338,89.242029,bus,2017
+529,Mymensingh,trisal,dhaka_mymensingh_highway,Tuesday,October,3,21,Night,0,1,1,1,24.271082,90.395374,others,2017
+530,Kishoreganj,maria_bscic_area,,Tuesday,October,3,8,Morning,1,2,3,2,24.43339,90.786975,van_three_wheeler,2017
+531,Jamalpur,dewanganj,dewanganj_baksiganj_road,Saturday,October,7,9,Morning,0,2,2,2,25.174273,89.777572,cycle,2017
+532,Dinajpur,parbatipur,,Saturday,October,7,5,Morning,0,1,1,1,25.653809,88.915991,truck,2017
+533,Dinajpur,parbatipur,,Saturday,October,7,3,Morning,0,1,1,1,25.653809,88.915991,others,2017
+534,Brahmanbaria,sarail,dhaka_sylhet_highway,Sunday,October,8,6,Morning,10,4,14,2,24.627498,91.677641,bus_truck,2017
+535,Chittagong,bashkali,,Monday,October,9,9,Morning,0,2,2,1,22.024645,91.946409,truck,2017
+536,Bogra,charmatha,domar_nilphamari_road,Wednesday,October,11,16,Afternoon,0,3,3,2,26.09307,88.827895,bus_cycle,2017
+537,Munshiganj,sirajdikhan,,Wednesday,October,11,14,Afternoon,10,3,13,1,23.54569,90.534104,bus,2017
+538,Rajshahi,RAKUB_building,,Wednesday,October,11,21,Night,0,1,1,2,24.378143,88.605883,others,2017
+539,Jhenaidah,sadar,panchmile_busstand,Thursday,October,12,9,Morning,9,2,11,2,23.485607,89.418291,van_three_wheeler,2017
+540,Faridpur,sadarpur,sadarpur_piajkali_road,Thursday,October,12,16,Afternoon,1,1,2,1,23.475432,90.052348,cycle,2017
+541,Jaipurhat,baniapara_sadar_policebox,Jaipurhat_bogra_highway,Wednesday,October,11,18,Evening,0,1,1,2,25.112114,89.027308,bus_cycle,2017
+542,Tangail,mirzapur,dhaka_tangail_highway,Thursday,October,12,5,Morning,7,2,9,2,24.093994,90.17164,bus_truck,2017
+543,Sirajganj,simanto_bazar,bangabandhu_bridge_link_road,Thursday,October,12,5,Morning,3,2,5,2,24.398094,89.750525,truck,2017
+544,Madaripur,alomdostan,dhaka_Barisal_highway,Thursday,October,12,4,Morning,1,1,2,2,23.147745,90.144058,bus_cycle,2017
+545,Patuakhali,dumki,patuakhli_Barisal_road,Thursday,October,12,11,Morning,0,1,1,2,22.625687,90.337306,bus,2017
+546,ChapaiNawabganj,niachole,,Friday,October,13,11,Morning,0,1,1,1,24.728005,88.413581,truck,2017
+547,Dinajpur,ghoraghat,,Sunday,October,15,13,Noon,10,2,12,2,25.273831,89.240494,three_wheeler_bus,2017
+548,Kishoreganj,hossainpur,,Saturday,October,14,22,Night,0,1,1,1,24.418383,90.722142,others,2017
+549,Dinajpur,birganj,dinajpur_panchagarh_highway,Tuesday,October,17,5,Morning,0,1,1,1,25.627103,88.637068,truck,2017
+550,Jaipurhat,puranapoil,,Tuesday,October,17,13,Noon,3,2,5,2,25.135845,89.030985,others,2017
+551,Naogaon,porsha,,Tuesday,October,17,5,Morning,25,1,26,2,25.011781,88.495796,bus,2017
+552,Nilphamari,,domar_dimla_road,Tuesday,October,17,16,Afternoon,0,1,1,1,26.134798,88.906545,three_wheeler,2017
+553,Jamalpur,,chandra_bypass,Monday,October,16,23,Night,0,1,1,2,24.925923,89.945798,cycle_three_wheeler,2017
+554,Dinajpur,kaharol,dinajpur_dhaka_highway,Friday,October,20,14,Afternoon,15,3,18,2,25.606863,88.671933,bus_car,2017
+555,Chittagong,sitakunda,dhaka_chittagong_highway,Friday,October,20,10,Morning,10,2,12,2,22.531304,91.699809,bus_van,2017
+556,Chittagong,bibirhat,,Tuesday,October,24,11,Morning,0,1,1,1,22.689082,91.790364,others,2017
+557,Chittagong,raozan,,Tuesday,October,24,18,Evening,0,1,1,2,22.535108,91.914782,truck_three_wheeler,2017
+558,Gopalganj,muksudpur,,Monday,October,23,8,Morning,2,1,3,2,23.311309,89.861661,bus_three_wheeler,2017
+559,Thakurgaon,ranishankoli,,Monday,October,23,21,Night,0,1,1,2,25.891474,88.264975,cycle,2017
+560,Dinajpur,ghoraghat,,Thursday,October,26,22,Night,0,1,1,2,25.273831,89.240494,truck_rickshaw,2017
+561,Bagerhat,fakirhat,,Friday,October,27,16,Afternoon,0,1,1,2,22.77614,89.706931,bus_cycle,2017
+562,Faridpur,sadarpur,,Thursday,October,26,9,Morning,1,1,2,2,23.474259,90.022334,bus_cycle,2017
+563,Chittagong,rangunia,,Saturday,October,28,9,Morning,0,1,1,1,22.468014,92.062577,three_wheeler,2017
+564,Dinajpur,biral,dinajpur_biral_road,Friday,October,27,16,Afternoon,2,1,3,2,25.63464,88.583603,truck_cycle,2017
+565,Pabna,santhia,dhaka_pabna_highway,Sunday,October,29,13,Noon,25,7,32,2,24.034169,89.43829,bus,2017
+566,Manikganj,shivalaya,dhaka_paturia_highway,Sunday,October,29,16,Afternoon,10,2,12,1,23.8172,89.813412,bus,2017
+567,Dinajpur,chirirbandar,,Sunday,October,29,11,Morning,0,1,1,1,25.650994,88.776011,van,2017
+568,Dinajpur,charmatha,dinajpur_bogra_highway,Saturday,October,28,12,Noon,0,1,1,2,25.618433,88.647812,cycle_three_wheeler,2017
